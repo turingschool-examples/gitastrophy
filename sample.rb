@@ -1,5 +1,5 @@
 class Sample
   def self.do_stuff(objects)
-    objects.map { |object| object.clean }
+    objects.map(&:clean)
   end
 end
