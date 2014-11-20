@@ -4,5 +4,6 @@ class Sample
     objects.each do |object|
       object.clean
     end
+    clean_objects
   end
 end
