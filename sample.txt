@@ -1,4 +1,4 @@
 Adding some feature
 Adding a line
 
-Person 1 Adds a line!
+Person 1 and 2 added this line!
