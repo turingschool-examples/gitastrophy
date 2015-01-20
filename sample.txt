@@ -1,2 +1,4 @@
 Adding some feature
 Adding a line
+
+Person 2 adds a line!
