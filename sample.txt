@@ -3,4 +3,4 @@ Adding a line
 
 Person 1 and 2 added this line!
 
-Person 2 add this new line.
+Person 1 & 2 added this new line.
