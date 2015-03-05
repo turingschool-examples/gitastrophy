@@ -1,4 +1,4 @@
 gitastrophy
 ===========
 
-A sample repo to practice git workflows By: Sally
+A sample to practice git workflows By: Sally
