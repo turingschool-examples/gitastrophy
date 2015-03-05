@@ -10,5 +10,10 @@ class Sample
       else
         so_not_impressed_with_code
       end
+    end
+  end
+  
+  def person_1_changes
+    puts "Hello there"
   end
 end
